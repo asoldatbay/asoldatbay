@@ -1,6 +1,8 @@
 Hello World 👋
 <br>
+<br>
 I am a backend software engineer from Kazakhstan
+<br>
 <br>
 Connect with me
 <br>
