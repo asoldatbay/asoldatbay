@@ -48,4 +48,4 @@ Other
 <div><img align="left" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" /></div>
 <br>
 <br>
-<div><img src="https://pin.it/1X03jbs" /></div>
+<div><img src="https://31.media.tumblr.com/e8784e22f8bca584ca93dc5574f61037/tumblr_morf3uUAqj1ssgywbo9_250.gif" /></div>
