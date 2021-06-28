@@ -6,6 +6,7 @@ I am a fullstack software engineer from bangladesh
 Connect with me
 <br>
 <a href="https://www.linkedin.com/in/asoldatbay/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href=""><img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br>
 <br>
 ## Expertise
