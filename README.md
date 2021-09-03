@@ -11,7 +11,7 @@ Connect with me
 <a href="mailto:aliardabekuly@gmail.com"><img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://t.me/asxld"><img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <br>
-<br>
+<!-- <br>
 Languages
 <br>
 <div><img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /></div>
@@ -35,7 +35,7 @@ Operating System
 <br>
 <div><img align="left" alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></div>
 <div><img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></div>
-<br>
+<br> -->
 <br>
 <div><img src="https://31.media.tumblr.com/e8784e22f8bca584ca93dc5574f61037/tumblr_morf3uUAqj1ssgywbo9_250.gif" /></div>
 </body>
